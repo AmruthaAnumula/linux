@@ -1,0 +1,12 @@
+commands:
+1.chmod (u,g,o+r) <filename>=adding  read permission to the file.
+2..chmod (u,g,o-r) <filename>=removing  read permission to the file.
+3.ls -la=list all the hidden files
+4.ls -lh=size of the files in human readable format
+5.ls -lt=based on time
+6.ls -ltr=lists all the files based on time in the reverse format.
+7.touch =craete new empty file
+8.vi=to enter the data to the file
+9.cat=used to read the data
+10.tar =used to archive the files
+
