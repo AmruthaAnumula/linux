@@ -1,0 +1,24 @@
+COMMANDS:
+1.Help commands-whatis, --help,man <cmd>
+2.Filters- 
+          1.cut -c1 <filename>(used to display the first character)
+	  2.awk '{print $1}' <file name>
+3.Grep-grep command is used to search a file for a particular pattern of character.
+4.Uniq-uniq command is used to display the data without any duplicates.
+5.word count- cmd is used to know the number of lines,words,characters of file.
+6.System information-
+     1.uname(Displays the system name)
+     2.uname -a(Displays the information about system like versions,name,etc.
+     3.dmidecode(Additional information about the system)
+7.Creating a user and group-
+     1.useradd(create the user)
+     2.usermod(modify the user)
+     3.userdel(deletes the user)
+     4.groupadd(create the group)
+     5.groupdel(deletes the group)
+8.History-
+     1.History(shows the commands which are used)
+     2.History -c(clears the history)
+9.which command is used to identify the the location and displays the path.
+10.kill-command is used to terminate the process immediatelu.
+ 
